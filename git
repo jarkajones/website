@@ -1,0 +1,44 @@
+[1mdiff --git a/about.html b/about.html[m
+[1mnew file mode 100644[m
+[1mindex 0000000..48f6e61[m
+[1m--- /dev/null[m
+[1m+++ b/about.html[m
+[36m@@ -0,0 +1,10 @@[m
+[32m+[m[32m<!DOCTYPE html>[m
+[32m+[m[32m<html>[m
+[32m+[m[32m  <head>[m
+[32m+[m[32m    <title>Prvni pokus Jarka</title>[m
+[32m+[m[32m      <body>[m
+[32m+[m[32m<h1>hello, world</h1>[m
+[32m+[m[32m<p>Call me Ismahel</p>[m
+[32m+[m[32m<img src="images/breaching_whale.jpg">[m
+[32m+[m[32m      </body>[m
+[32m+[m[32m</html>[m
+[1mdiff --git a/index.html b/index.html[m
+[1mindex 48f6e61..ac9f278 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -4,6 +4,7 @@[m
+     <title>Prvni pokus Jarka</title>[m
+       <body>[m
+ <h1>hello, world</h1>[m
+[32m+[m[32m<a href="onas.html"> About this project </a>[m
+ <p>Call me Ismahel</p>[m
+ <img src="images/breaching_whale.jpg">[m
+       </body>[m
+[1mdiff --git a/onas.html b/onas.html[m
+[1mnew file mode 100644[m
+[1mindex 0000000..b7a32a6[m
+[1m--- /dev/null[m
+[1m+++ b/onas.html[m
+[36m@@ -0,0 +1,10 @@[m
+[32m+[m[32m<!DOCTYPE html>[m
+[32m+[m[32m<html>[m
+[32m+[m[32m  <head>[m
+[32m+[m[32m    <title>About Us</title>[m
+[32m+[m[32m      <body>[m
+[32m+[m[32m<h1>hello, world</h1>[m
+[32m+[m[32m<p>This site is a sample project for the <strong>awesome</strong> Git[m
+[32m+[m[32m      tutorial <em>Learn Enough™ Git to Be Dangerous</em>.</p>[m
+[32m+[m[32m      </body>[m
+[32m+[m[32m</html>[m
